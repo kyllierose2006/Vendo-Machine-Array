@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\obj\Debug\vendo machine array.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\obj\Debug\vendo_machine_array.Properties.Resources.resources
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\obj\Debug\vendo machine array.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\obj\Debug\vendo machine array.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\bin\Debug\vendo machine array.exe.config
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\bin\Debug\vendo machine array.exe
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\bin\Debug\vendo machine array.pdb
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\obj\Debug\vendo machine array.exe
+C:\Users\PC\source\repos\vendo machine array\vendo machine array\obj\Debug\vendo machine array.pdb
